@@ -19,7 +19,8 @@ public class RunSimulation {
                 ItemFactory.getInstance().createItem("Backstage passes to a TAFKAL80ETC concert", 15, 20),
                 ItemFactory.getInstance().createItem("Backstage passes to a TAFKAL80ETC concert", 10, 49),
                 ItemFactory.getInstance().createItem("Backstage passes to a TAFKAL80ETC concert", 5, 49),
-                ItemFactory.getInstance().createItem("Conjured Mana Cake", 3, 6)
+                ItemFactory.getInstance().createItem("Conjured Mana Cake", 3, 6),
+                ItemFactory.getInstance().createItem("Switcher", 2 , 10)
         };
 
         GildedRose app = new GildedRose(items);

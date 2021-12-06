@@ -3,6 +3,8 @@ The goal of this repository is to create an exercise for students on learning GI
 for different products but also will have to create some changes in the main function for which it is important to avoid or resolve merge conflicts.
 The code is based on the Gilded Rose Refactoring Kata. It is used in the class of 2021 as well.
 
+Voor Oefenening GIT Update.
+
 # Gilded Rose Refactoring Kata
 
 This Kata was originally created by Terry Hughes (http://twitter.com/TerryHughes). It is already on GitHub [here](https://github.com/NotMyself/GildedRose). See also [Bobby Johnson's description of the kata](http://iamnotmyself.com/2011/02/13/refactor-this-the-gilded-rose-kata/).
